@@ -6,6 +6,7 @@ red_pin = TouchPad(Pin(33))
 blue_pin = TouchPad(Pin(32))
 green_pin = TouchPad(Pin(14))
 yellow_pin = TouchPad(Pin(27))
+//wazzuppp 
 
 red = Pin(13, Pin.OUT)
 blue = Pin(4, Pin.OUT)
